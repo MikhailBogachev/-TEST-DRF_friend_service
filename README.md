@@ -8,7 +8,7 @@ git clone https://github.com/MikhailBogachev/TEST_DRF_friend_service.git
 ```
 cd TEST_DRF_friend_service
 ```
-# Запуск с помощью docker
+### Запуск с помощью docker
 3. Выполнить последовательно две команды:
 ```
 docker build -t django_drf .
@@ -17,7 +17,7 @@ docker build -t django_drf .
 ```
 docker run -d -p 8080:8000 --name django_drf_app django_drf
 ```
-# Запуск с помощью Python
+### Запуск с помощью Python
 3. Cоздать и активировать виртуальное окружение:
 ```
 python3 -m venv env
