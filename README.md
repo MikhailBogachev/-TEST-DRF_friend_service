@@ -1,5 +1,14 @@
 # TEST_DRF_friend_service
-## Django сервис друзей. OpenAPI спецификация в [/project/schema.yaml](https://github.com/MikhailBogachev/TEST_DRF_friend_service/blob/main/project/schema.yaml)   
+## Django сервис друзей.  
+Содержание описания:
+1. [OpenAPI спецификация](## OpenAPI спецификация)
+2. [Запуск сервиса](## Запуск сервиса)
+  - [Запуск с помощью docker](### Запуск с помощью docker)
+  - [Запуск с помощью Python env](### Запуск с помощью Python env)
+3. [Примеры запросов](## Примеры запросов. (Порт при запуске через dockerfile: 8080, через python env: 8000))  
+
+## OpenAPI спецификация
+OpenAPI спецификация в [/project/schema.yaml](https://github.com/MikhailBogachev/TEST_DRF_friend_service/blob/main/project/schema.yaml)   
 
 ## Запуск сервиса
 1. Клонировать репозиторий:
