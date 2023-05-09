@@ -1,5 +1,6 @@
 # TEST_DRF_friend_service
-## Django сервис друзей. OpenAPI спецификация в /project/schema.yaml [link]https://github.com/MikhailBogachev/TEST_DRF_friend_service/blob/main/project/schema.yaml
+## Django сервис друзей. OpenAPI спецификация в /project/schema.yaml  
+[link](https://github.com/MikhailBogachev/TEST_DRF_friend_service/blob/main/project/schema.yaml)
 ## Запуск сервиса
 1. Клонировать репозиторий:
 ```
