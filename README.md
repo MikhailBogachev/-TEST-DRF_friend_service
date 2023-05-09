@@ -140,7 +140,7 @@ __**POST**__ Отправить заявку в друзья другому по
 ```
 
 __**GET**__ **Принять** входящую заявку в друзья. id - id входящей заявки  
-**URL**: http://127.0.0.1:8080/api/friend-requests/{id}/accept/ 
+**URL**: http://127.0.0.1:8080/api/friend-requests/{id}/accept/  
 **Response (JSON)**:
 ```
 {
@@ -150,7 +150,7 @@ __**GET**__ **Принять** входящую заявку в друзья. id
 
 
 __**GET**__ **Отклонить** входящую заявку в друзья. id - id входящей заявки  
-**URL**: http://127.0.0.1:8080/api/friend-requests/{id}/reject/ 
+**URL**: http://127.0.0.1:8080/api/friend-requests/{id}/reject/  
 **Response (JSON)**:
 ```
 {
