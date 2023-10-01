@@ -1,4 +1,4 @@
-# TEST_DRF_friend_service
+# PET_DRF_friend_service
 ## Django сервис друзей.   
 
 ## OpenAPI спецификация
